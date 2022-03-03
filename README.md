@@ -84,6 +84,6 @@ https://user-images.githubusercontent.com/70435257/156324039-f81db1bd-af1b-4308-
 | 박상우       | [SangWoo9734](https://github.com/SangWoo9734) |  |
 | 신항민       | [ssinking91](https://github.com/ssinking91)   | |
 | 이장민       | [leo-xee](https://github.com/leo-xee)         | |
-| 오카무라카에 | [kaehehehe](https://github.com/kaehehehe)     | | 
+| 오카무라카에 | [kaehehehe](https://github.com/kaehehehe)     | https://github.com/kaehehehe/wanted-codestates-project-2-10| 
 | 허민         | [hhhminme](https://github.com/hhhminme)       | |
 | 전호용       | [mooroom](https://github.com/mooroom)         | |
